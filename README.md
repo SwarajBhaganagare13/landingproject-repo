@@ -5,21 +5,16 @@ A responsive and modern landing page built using HTML, CSS, and JavaScript.
 ##  Table of Contents
 
 - [Overview](#overview)
-- [Demo](#demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation & Usage](#installation--usage)
 - [Customizing](#customizing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
-This is a lightweight, single-page landing page designed using pure front-end technologies—HTML, CSS, and JavaScript. Ideal for showcasing business services, products, portfolios, or personal introductions.
+This is a lightweight, single-page landing page designed using pure front-end technologies—HTML, CSS, and JavaScript. Ideal for showcasing business services, products.
 
-## Demo
-
-*(If deployed, include a live demo URL here. Otherwise, mention how to preview locally.)*
 
 ## Features
 
@@ -33,6 +28,7 @@ This is a lightweight, single-page landing page designed using pure front-end te
 - `style.css` — custom styles to enhance the visual design.
 - `script.js` — JavaScript interactions (e.g., smooth scroll, dynamic effects).
 
+
 ## Installation & Usage
 
 1. **Clone the repository**
@@ -40,6 +36,3 @@ This is a lightweight, single-page landing page designed using pure front-end te
    ```bash
    git clone https://github.com/SwarajBhaganagare13/landingproject-repo.git
    cd landingproject-repo
-
-## Project Structure
-
