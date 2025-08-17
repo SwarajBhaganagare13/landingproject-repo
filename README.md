@@ -8,8 +8,6 @@ A responsive and modern landing page built using HTML, CSS, and JavaScript.
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation & Usage](#installation--usage)
-- [Customizing](#customizing)
-- [Contributing](#contributing)
 
 ## Overview
 
